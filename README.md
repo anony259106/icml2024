@@ -1,3 +1,3 @@
-# Information-theoretic Unsupervised Feature Selection for Pattern Discrimination Power based on Rayleigh Quotient Maximization
+# Unsupervised Feature Selection for Pattern Discrimination Power using Rayleigh Quotient
 
-This repository contains a MATALB implementation of the paper "Information-theoretic Unsupervised Feature Selection for Pattern Discrimination Power based on Rayleigh Quotient Maximization".
+This repository contains a MATALB implementation of the paper "Unsupervised Feature Selection for Pattern Discrimination Power using Rayleigh Quotient".
